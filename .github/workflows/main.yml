@@ -46,5 +46,3 @@ jobs:
       # Paso 5: Generar Reporte de Cobertura (Opcional, pero recomendado)
       # Este paso usa una acción de terceros para mostrar la cobertura en el PR.
       # Requiere que el paso anterior haya generado un archivo de reporte de cobertura
-      # (ej: 'coverage/lcov.info' o 'coverage/cobertura-coverage.xml').
-      - name: 📊 Gener
